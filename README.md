@@ -1,4 +1,5 @@
 # LMS-Qt-Quick-Cpp
+## summary:
 LMS (Learning Managment System) teacher-student quiz aplication  (Qt Quick , C++)
 (inteface Language = Persian)
 
