@@ -25,10 +25,10 @@ Feel free to do any thing you want with this Qt project, but it is still nice if
 #### Result of quiz:
 <img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/2.png" alt="Result of quiz"  width="400">
 
-### Main Page Teacher (list of cources):
+#### Main Page Teacher (list of cources):
 <img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/3.png" alt="Main Page Teacher (list of cources)"  width="400">
 
-#### Quiz question
+#### Quiz question:
 <img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/5.png" alt="Quiz question"  width="400">
 
 
