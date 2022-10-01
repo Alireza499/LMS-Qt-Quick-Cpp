@@ -13,7 +13,7 @@ Simply download the files and open LM.pro with Qt-creator
 for <b>more explanation about the code</b>, see <a href='https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/Project-Report_inPersian.pdf'>'Project-Report_inPersian.pdf' </a>
 
 ## License:
-Feel free to do any thing you want with this Qt project, but it is still nice if you mention me if it helped you (if you wanted!).
+Feel free to do any thing you want with this Qt project, but it is still nice if you mention me if it helped you (if you wanted to!).
 
 ## USER INTERFACE:
 #### Entering questions in quiz by teacher user1:
