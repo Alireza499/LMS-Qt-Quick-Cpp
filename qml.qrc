@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.ui.qml</file>
+        <file>SignUp.qml</file>
+        <file>AsliDaneshjoo.qml</file>
+        <file>AsliOstad.qml</file>
+        <file>DaneshjooAzmoon.qml</file>
+        <file>AzmoonHaDaneshjoo.qml</file>
+        <file>TamamDarsHaDaneshjoo.qml</file>
+        <file>VaredKardanNameDars.qml</file>
+        <file>AzmoonEzafeShod.ui.qml</file>
+        <file>preAzmoon.qml</file>
+        <file>AzmoonHaOstad.qml</file>
+        <file>VaredKardanNameAzmoon.qml</file>
+        <file>EzafeKardeneDars.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>OstadAzmoon.ui.qml</file>
+        <file>Karname.qml</file>
+        <file>DaneshjooyanDars.qml</file>
+    </qresource>
+</RCC>
