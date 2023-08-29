@@ -1,35 +1,55 @@
 # LMS-Qt-Quick-Cpp
-#### inteface Language = Persian
 
-## summary:
-LMS (Learning Managment System) teacher-student quiz aplication  (Qt Quick , C++)
+**Interface Language:** Persian
 
-## InterFace Map:
-<img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/interFaceMap.png" alt="interFaceMap">
+## Summary
 
+LMS (Learning Management System) Teacher-Student Quiz Application (Qt Quick, C++)
 
-## How to use:
-Simply download the files and open LM.pro with Qt-creator
-for <b>more explanation about the code</b>, see <a href='https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/Project-Report_inPersian.pdf'>'Project-Report_inPersian.pdf' </a>
+## Interface Map
 
-## License:
-Feel free to do any thing you want with this Qt project, but it is still nice if you mention me if it helped you.
+![Interface Map](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/interFaceMap.png)
 
-## USER INTERFACE:
-#### Entering questions in quiz by teacher user1:
-<center><img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/1.png" alt="Entering questions in quiz by teacher user 1" width="400"></center>
+## Table of Contents
 
-#### Entering questions in quiz by teacher user1:
-<img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/4.png" alt="Entering questions in quiz by teacher user 2"  width="400">
+- [How to Use](#how-to-use)
+- [License](#license)
+- [User Interface](#user-interface)
+  - [Entering Questions in Quiz by Teacher User 1](#entering-questions-in-quiz-by-teacher-user-1)
+  - [Entering Questions in Quiz by Teacher User 2](#entering-questions-in-quiz-by-teacher-user-2)
+  - [Result of Quiz](#result-of-quiz)
+  - [Main Page Teacher (List of Courses)](#main-page-teacher-list-of-courses)
+  - [Quiz Question](#quiz-question)
 
-#### Result of quiz:
-<img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/2.png" alt="Result of quiz"  width="400">
+## How to Use
 
-#### Main Page Teacher (list of cources):
-<img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/3.png" alt="Main Page Teacher (list of cources)"  width="400">
+To use this application, follow these steps:
 
-#### Quiz question:
-<img src="https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/5.png" alt="Quiz question"  width="400">
+1. Download the project files.
+2. Open `LM.pro` using Qt Creator.
+3. For more detailed explanations about the code, refer to the [`Project-Report_inPersian.pdf`](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/Project-Report_inPersian.pdf) document.
 
+## License
 
+This Qt project is provided under a permissive license. You are free to use, modify, and distribute the code as you see fit. While not mandatory, it's appreciated if you give credit to the original author (Alireza499) if this project proves useful to you.
 
+## User Interface
+
+### Entering Questions in Quiz by Teacher User 1
+![Entering questions in quiz by teacher user 1](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/1.png)
+
+### Entering Questions in Quiz by Teacher User 2
+![Entering questions in quiz by teacher user 2](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/4.png)
+
+### Result of Quiz
+![Result of quiz](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/2.png)
+
+### Main Page Teacher (List of Courses)
+![Main Page Teacher (list of courses)](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/3.png)
+
+### Quiz Question
+![Quiz question](https://github.com/Alireza499/LMS-Qt-Quick-Cpp/blob/main/5.png)
+
+---
+
+Feel free to contribute to the project, report any issues, or use it to create your own learning management solutions!
